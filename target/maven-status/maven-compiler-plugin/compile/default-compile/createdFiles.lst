@@ -1,0 +1,8 @@
+model\UsuariosDao.class
+model\UsuariosVo.class
+controller\Servletnavegacion.class
+controller\ServletPublicaciones.class
+controller\ServletUsuarios.class
+config\Conexion.class
+model\PublicacionDao.class
+model\PublicacionVo.class

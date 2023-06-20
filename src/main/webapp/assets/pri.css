@@ -1,0 +1,40 @@
+
+nav p {
+    text-align: center;
+    font-size: 50px;
+    font-family: Matura MT Script Capitals;
+
+  }
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color:#003855;
+
+    color: #fff;
+  }
+  
+  .button {
+    background-image: linear-gradient(to right,#145a8c,#2098d8);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  
+    
+    border-radius:50px;
+    width: 100%;
+    border: none;
+    display: inline-block;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  a:hover{
+    text-decoration: none;
+  }
